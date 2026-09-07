@@ -2,7 +2,7 @@
 
 ## 1 Easiest way:
 
- /robots.txt : 搜索引擎机器人，请不要索引 /admin
+ /robots.txt : 搜索引擎机器人 请不要索引 /admin
 
 ## Example
 
